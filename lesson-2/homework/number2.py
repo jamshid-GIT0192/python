@@ -1,0 +1,5 @@
+num1 = float (input("1 - son kiriting : "))
+num2 = float (input("2 - son kiriting : "))
+num3 = float (input("3 - son kiriting : "))
+print("Max number" , max(num1 , num2 , num3))
+print("Min number" , min(num1 , num2 , num3))
